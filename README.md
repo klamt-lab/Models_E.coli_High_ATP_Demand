@@ -1,8 +1,9 @@
 # Metabolic models of E. coli used to study metabolic changes under high ATP demand
 
-# Kinetic and stoichiometric model of the central carbon and energy metabolism of E. coli growing under anaerobic conditions
+This repository contains kinetic and stoichiometric models of the central carbon and 
+energy metabolism of E. coli growing under anaerobic conditions. T
 
-This repository contains models used in the study: 
+The models have been used in the following study: 
 Boecker et al., Deciphering the Physiological Response of Escherichia coli Under High ATP Demand.    
 
 ## Repository content 
