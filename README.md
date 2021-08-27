@@ -1,10 +1,17 @@
-# Models---enforced-ATP-wasting-in-E.coli
+# Metabolic models of E. coli used to study metabolic changes under high ATP demand
 
-# Kinetic and stoichiometric model of the carbon and energy metabolis of E. coli growing under anaerobic conditions
+# Kinetic and stoichiometric model of the central carbon and energy metabolism of E. coli growing under anaerobic conditions
+
+This repository contains models used in the study: 
+Boecker et al., Deciphering the Physiological Response of Escherichia coli Under High ATP Demand.    
 
 ## Repository content 
 
 # 1) Stoichiometric model:
+
+The stoichiometric model was used for metabolic flux analysis. The zip file contains
+the CellNetAnalyzer project and can be used to reproduce the calculations from the
+study (see also the ReadMe file). The SBML file of this model is also provided.
 
 
 # 2) Kinetic model:
