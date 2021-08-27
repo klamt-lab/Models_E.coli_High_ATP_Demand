@@ -8,14 +8,14 @@ Boecker et al., Deciphering the Physiological Response of Escherichia coli Under
 
 ## Repository content 
 
-# 1) Stoichiometric model:
+## 1) Stoichiometric model:
 
 The stoichiometric model was used for metabolic flux analysis. The zip file contains
 the CellNetAnalyzer project and can be used to reproduce the calculations from the
 study (see also the ReadMe file). The SBML file of this model is also provided.
 
 
-# 2) Kinetic model:
+## 2) Kinetic model:
 
 This repository contains two kinetic models, each in SBML and Copasi format:
 
