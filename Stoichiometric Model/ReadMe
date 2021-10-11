@@ -1,1 +1,5 @@
-Stoichiometric model of the central carbon and energy metabolism of Ecoli. 
+This folder contains the stoichiometric model of the central metabolism of E. coli
+(as SBML and as CellNetAnalyzer project folder) that was used to calculate the 
+unknown metabolic fluxes from measured exchange rates.
+
+A detailed description is given in the provided separate ReadMe file.
