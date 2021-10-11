@@ -18,7 +18,7 @@ this model is also provided.
 
 ### 2) Kinetic model
 
-This repository contains two kinetic models, each in SBML and Copasi format:
+This repository contains the two versions of the kinetic models (as described in the aforementioned paper), each in SBML and Copasi format:
 
 - SBML file Model Version 1
 - Copasi file Model Version 1
