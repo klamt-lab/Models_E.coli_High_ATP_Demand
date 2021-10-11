@@ -1,5 +1,7 @@
 This folder contains the stoichiometric model of the central metabolism of E. coli
 (as SBML and as CellNetAnalyzer project folder) that was used to calculate the 
-unknown metabolic fluxes from measured exchange rates.
+unknown metabolic fluxes from measured exchange rates in th following study:
 
-A detailed description is given in the provided separate ReadMe file.
+Boecker et al., "Deciphering the Physiological Response of Escherichia coli Under High ATP Demand." 
+
+A detailed description is given in the provided separate ReadMe (docx) file.
