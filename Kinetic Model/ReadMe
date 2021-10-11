@@ -23,8 +23,10 @@ and succinate), transport reactions between cytoplasm and external environment, 
 that accounts for non-growth associated maintenance ATP demands, and finally an ATPase reaction that hydrolyses ATP into ADP 
 and whose activity depends on the level of the overexpression of the ATPase genes. 
 
-As explained in the above work, model Version 1 and 2 differ for the introduction of regulatory terms in the PFL and PYK reaction 
-and the adaptation of some parameters. 
+As explained in the above work, model Version 1 and 2 differ for the introduction of:
+- an inhibtion term in the PFL reaction, slowing the reaction down when ATP becomes scarse:
+- an allosteric inhibition for PYR on the PYK;
+- few parameter changes. 
 
 More detailed information on the models can be found in the "Appendix" of the aforementioned paper. 
 
