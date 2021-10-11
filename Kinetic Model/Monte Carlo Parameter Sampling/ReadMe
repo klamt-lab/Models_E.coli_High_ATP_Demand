@@ -1,10 +1,14 @@
 # MonteCarlo-paramter-sampling
 
-Monte Carlo parameter sampling for central carbon and energy metabolism of E coli under anaerobic conditions. The model is the same used in the pubblicationBoecker S., Slaviero G., Schramm T., Szymanski W., Steuer R., Link H., Klamt S., (2021), "Deciphering the Physiological Response of Escherichia coli Under High ATP Demand", Submitted".     
+Monte Carlo parameter sampling for central carbon and energy metabolism of E coli under anaerobic conditions. 
+The model is the same used in the pubblication
+Boecker S., Slaviero G., Schramm T., Szymanski W., Steuer R., Link H., Klamt S., (2021), "Deciphering the Physiological 
+Response of Escherichia coli Under High ATP Demand", Submitted".     
 
 
 NOTE1: The parameter sampling has been performed on Model Version 2 for wild type and High Copy ATPase overexpression. 
-NOTE2: In all conditions samplings have been done for 10'000 iterations. The sampling has been performed spanning one order of magnitude above and below the parameter value present in Model Version 2.  
+NOTE2: In all conditions samplings have been done for 10'000 iterations. The sampling has been performed spanning 
+one order of magnitude above and below the parameter value present in Model Version 2.  
 
 The repository contains: 
 - SCRIPTS: Matlab scripts to perform the sampling and to plot the results. The original code is taken from "Monte-Carlo Modeling of the Central Carbon Metabolism of Lactococcus lactis: Insights into Metabolic Regulation". The code has been modified to read a SBML file and import kinetic equations, parameters, species and reactions. The steady state concentrations and fluxes have been retrieved simulating the model in COPASI. 
